@@ -1,7 +1,7 @@
 # 🧠 AdaOR: Emulating Human-like Adaptive Oculomotor Mechanisms for Fast and Interpretable X-ray Reconstruction
 
 <div align="center">
-    <img src="src/fig1.png" width="720">
+    <img src="src/fig3.png" width="720">
 </div>
 
 ---
