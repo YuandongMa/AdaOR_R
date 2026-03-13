@@ -1,4 +1,4 @@
-# 🧠 AdaOR: Oculomotor-Guided Perceptual Reconstruction for Extreme Sparse-View Imaging
+# 🧠 AdaOR: Oculomotor-Guided Perceptual Reconstruction for Extreme Sparse-View 3D Imaging
 
 <div align="center">
     <img src="src/fig3.png" width="720">
