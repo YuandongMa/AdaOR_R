@@ -1,4 +1,4 @@
-# 🧠 AdaOR: Emulating Human-like Adaptive Oculomotor Mechanisms for Fast and Interpretable X-ray Reconstruction
+# 🧠 AdaOR: Oculomotor-Guided Perceptual Reconstruction for Extreme Sparse-View Imaging
 
 <div align="center">
     <img src="src/fig3.png" width="720">
